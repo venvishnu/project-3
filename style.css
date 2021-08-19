@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.topbar-section{
+    margin-top: -1px;
+}
+.topbar-section{
+    position:fixed;
+    width: 100%;
+    z-index: 1;
+    top: -1;
+}
+.coronovirus{
+    font-size: 15px;
+    font-weight:bolder;
+    text-transform: capitalize;
+}
+.contact a{
+    margin-left: 15px;
+    text-transform:capitalize;
+}
+.header-2{
+    
+}
+.header-2 img{
+    width: 12%;
+    margin-left: 70px;
+}
+.nav-navbar a{
+    margin-left: 16px;
+    font-weight: bolder;
+    color: #222;
+}
+.nav-navbar a:hover{
+    border-bottom: 3px solid #dc3545 ;
+    text-decoration: none;
+    color: #222;
+}
+.intro-wheelmode {
+    padding-top: 120px;
+    background-color: #111c3B;
+    height: 50rem;
+}
+.intro-wheelmode .para{
+    position: relative;
+    bottom: 52px;
+}
+.intro-wheelmode-links a{
+    margin-left: 4rem;
+    color: #fff;
+}
+.intro-wheelmode-links a:hover{
+    color: #fff;
+    text-decoration: none;
+}
+.intro-wheelmode-shop{
+    background-color: #fff;
+    height: 17em;
+    width: 65%;
+    margin: 4rem;
+}
+.nav-intro-wheelmode{
+    display: flex;
+    text-align: center;
+}
+.nav-intro-wheelmode label{
+    padding-left: 20px;
+}
+.shop-by{
+    padding-top: 30px;
+    padding-left: 40px;
+    padding-bottom: 20px;
+}
+.shop-by button{
+    border: none;
+}
+.type-1 label{
+    text-transform: capitalize;
+    font-weight: bold;
+}
+.type-1 button{
+    font-weight: bold;
+}
+.ml-4 p a:hover{
+    color: #000;
+    text-decoration: none;
+}
+#btn:hover{
+    background-color: #111c3B;
+    color: #fff;
+}
+#btns:hover{
+    background-color: gray;
+    color: #111c3B;
+}
+.intro-wheelmode-image{
+    width: 45%;
+    height: 17rem;
+}
+.intro-wheelmode-image img{
+    width: 100%;
+    margin-top: 40px;
+}
+.intro-wheelmode-car{
+    width: 50%;
+    bottom: 40rem;
+    left: 33rem;
+    position: relative;
+}
+.intro-wheelmode-car img{
+    width: 100%;
+    height: 14rem;
+}
+.p{
+    position: relative;
+    bottom: 5rem;
+}
+.p{
+    position: relative;
+    bottom: 5rem;
+}
+.third-section{
+    background-color: #111c3B;
+    height: 30rem;
+}
+.icons img{
+    cursor: pointer;
+}
